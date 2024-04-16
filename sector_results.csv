@@ -1,101 +1,101 @@
-Ticker,symbol,Market Cap,Trailing P/E,P/B Ratio,Trailing EPS,Forward P/E,Forward EPS,Dividend Yield %,Beta,Trailing P/E Graham Status,P/B Ratio Graham Status,Combined P/E x P/B Graham Status,symbol Sector Status,Market Cap Sector Status,Trailing P/E Sector Status,P/B Ratio Sector Status,Trailing EPS Sector Status,Forward P/E Sector Status,Forward EPS Sector Status,Dividend Yield % Sector Status,Beta Sector Status,MarketCap_Billions
-HTOO,HTOO,25382796.0,,1.0523312,-2.58,-2.1114516,-0.62,,1.675,Overvalued,Undervalued,Overvalued,N/A,Undervalued,Fair Value,Undervalued,Undervalued,Undervalued,Undervalued,Fair Value,Overvalued,0.025382796
-ENLT,ENLT,1964673792.0,29.2193,1.680965,0.57,16.655,1.0,,0.648,Overvalued,Fair Value,Overvalued,N/A,Undervalued,Overvalued,Fair Value,Undervalued,Fair Value,Undervalued,Fair Value,Fair Value,1.964673792
-SWX,SWX,5221387776.0,34.220654,1.5758978,2.13,19.807064,3.68,3.4299999999999997,0.359,Overvalued,Fair Value,Overvalued,N/A,Overvalued,Overvalued,Fair Value,Fair Value,Overvalued,Overvalued,Fair Value,Undervalued,5.221387776
-CWT,CWT,2545783296.0,48.505493,1.7858155,0.91,18.546217,2.38,2.52,0.498,Overvalued,Fair Value,Overvalued,N/A,Undervalued,Overvalued,Fair Value,Undervalued,Overvalued,Fair Value,Undervalued,Fair Value,2.545783296
-BNRG,BNRG,5668304.0,,1.7189834,-4.99,,,,,Overvalued,Fair Value,Overvalued,N/A,Undervalued,Fair Value,Fair Value,Undervalued,Fair Value,Fair Value,Fair Value,Fair Value,0.005668304
-KEN,KEN,1115135744.0,,0.92655116,-4.42,-16.007574,-1.32,33.52,0.644,Overvalued,Undervalued,Overvalued,N/A,Undervalued,Fair Value,Undervalued,Undervalued,Undervalued,Undervalued,Overvalued,Fair Value,1.115135744
-OGE,OGE,6550867968.0,15.780194,1.4502308,2.07,14.264193,2.29,5.09,0.719,Fair Value,Undervalued,Fair Value,N/A,Overvalued,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value,Overvalued,Overvalued,6.550867968
-AES,AES,11472440320.0,47.470585,6.5503244,0.34,7.7596154,2.08,4.19,1.087,Overvalued,Overvalued,Overvalued,N/A,Overvalued,Overvalued,Overvalued,Undervalued,Undervalued,Undervalued,Fair Value,Overvalued,11.47244032
-SR,SR,3187387648.0,15.625337,1.1345755,3.71,12.657206,4.58,5.17,0.523,Fair Value,Undervalued,Undervalued,N/A,Undervalued,Fair Value,Undervalued,Overvalued,Fair Value,Overvalued,Overvalued,Fair Value,3.187387648
-TAC,TAC,1874197632.0,3.6035502,3.1407943,1.69,27.68182,0.22,2.91,0.886,Undervalued,Overvalued,Undervalued,N/A,Undervalued,Undervalued,Overvalued,Fair Value,Overvalued,Undervalued,Undervalued,Overvalued,1.874197632
-ENIC,ENIC,4190142464.0,5.9791665,0.74545455,0.48,0.008146003,352.32,11.939999499999999,0.724,Undervalued,Undervalued,Undervalued,N/A,Fair Value,Undervalued,Undervalued,Undervalued,Undervalued,Overvalued,Overvalued,Overvalued,4.190142464
-MSEX,MSEX,830821632.0,26.5,1.9649477,1.76,19.352695,2.41,2.75,0.741,Overvalued,Fair Value,Overvalued,N/A,Undervalued,Overvalued,Overvalued,Fair Value,Overvalued,Fair Value,Undervalued,Overvalued,0.830821632
-NFE,NFE,5677613056.0,10.449057,3.46125,2.65,7.306069,3.79,1.43,1.506,Undervalued,Overvalued,Overvalued,N/A,Overvalued,Undervalued,Overvalued,Overvalued,Undervalued,Overvalued,Undervalued,Overvalued,5.677613056
-ES,ES,20058077184.0,,1.4103576,-1.27,11.914582,4.8,4.9099997,0.597,Overvalued,Undervalued,Overvalued,N/A,Overvalued,Fair Value,Fair Value,Undervalued,Fair Value,Overvalued,Overvalued,Fair Value,20.058077184
-AVA,AVA,2601639168.0,14.854912,1.0452989,2.24,12.897287,2.58,5.609999999999999,0.494,Undervalued,Undervalued,Undervalued,N/A,Undervalued,Fair Value,Undervalued,Overvalued,Fair Value,Fair Value,Overvalued,Fair Value,2.601639168
-ETR,ETR,21524750336.0,9.093694,1.4692868,11.1,13.058215,7.73,4.42,0.705,Undervalued,Undervalued,Undervalued,N/A,Overvalued,Undervalued,Fair Value,Overvalued,Fair Value,Overvalued,Fair Value,Fair Value,21.524750336
-NJR,NJR,4044697600.0,16.932098,2.0169117,2.43,14.187931,2.9,4.04,0.653,Fair Value,Overvalued,Overvalued,N/A,Fair Value,Fair Value,Overvalued,Overvalued,Fair Value,Fair Value,Fair Value,Fair Value,4.0446976
-CEPU,CEPU,1811573248.0,,0.016739633,-0.03,8.546389,1.08,9.53,0.97,Overvalued,Undervalued,Overvalued,N/A,Undervalued,Fair Value,Undervalued,Undervalued,Undervalued,Undervalued,Overvalued,Overvalued,1.811573248
-CNP,CNP,17223403520.0,19.857664,1.7763631,1.37,15.635057,1.74,2.92,0.932,Fair Value,Fair Value,Overvalued,N/A,Overvalued,Fair Value,Fair Value,Undervalued,Fair Value,Undervalued,Undervalued,Overvalued,17.22340352
-AMPS,AMPS,610722496.0,,1.3584636,-0.06,23.875,0.16,,0.88,Overvalued,Undervalued,Overvalued,N/A,Undervalued,Fair Value,Fair Value,Undervalued,Overvalued,Undervalued,Fair Value,Overvalued,0.610722496
-KEP,KEP,9594615808.0,,0.00013270884,-2.68,1.5969827,4.64,,0.784,Overvalued,Undervalued,Overvalued,N/A,Overvalued,Fair Value,Undervalued,Undervalued,Undervalued,Overvalued,Fair Value,Overvalued,9.594615808
-GWRS,GWRS,290110784.0,36.363636,5.9671807,0.33,35.294117,0.34,2.5100000000000002,0.976,Overvalued,Overvalued,Overvalued,N/A,Undervalued,Overvalued,Overvalued,Undervalued,Overvalued,Undervalued,Undervalued,Overvalued,0.290110784
-FE,FE,21331501056.0,18.910713,2.0396762,1.96,12.95979,2.86,4.5500003,0.479,Fair Value,Overvalued,Overvalued,N/A,Overvalued,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value,21.331501056
-ARIS,ARIS,807452352.0,23.559322,1.2982161,0.59,10.610687,1.31,2.56,1.675,Overvalued,Undervalued,Overvalued,N/A,Undervalued,Overvalued,Fair Value,Undervalued,Undervalued,Undervalued,Undervalued,Overvalued,0.807452352
-PEG,PEG,32173320192.0,12.578752,2.0763564,5.13,16.05199,4.02,3.6799999999999997,0.595,Undervalued,Overvalued,Fair Value,N/A,Overvalued,Undervalued,Overvalued,Overvalued,Fair Value,Overvalued,Fair Value,Fair Value,32.173320192
-DUK,DUK,71957929984.0,17.43458,1.5252478,5.35,14.735388,6.33,4.36,0.465,Fair Value,Fair Value,Fair Value,N/A,Overvalued,Fair Value,Fair Value,Overvalued,Fair Value,Overvalued,Fair Value,Undervalued,71.957929984
-MGEE,MGEE,2691486976.0,22.892307,2.359957,3.25,18.6,4.0,2.25,0.724,Overvalued,Overvalued,Overvalued,N/A,Undervalued,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued,Undervalued,Overvalued,2.691486976
-EBR,EBR,17045434368.0,21.632353,0.14735049,0.34,8.172222,0.9,0.58999998,0.505,Overvalued,Undervalued,Undervalued,N/A,Overvalued,Overvalued,Undervalued,Undervalued,Undervalued,Undervalued,Undervalued,Fair Value,17.045434368
-WAVE,WAVE,21587010.0,,2.7145848,-0.32,,,,-0.203,Overvalued,Overvalued,Overvalued,N/A,Undervalued,Fair Value,Overvalued,Undervalued,Fair Value,Fair Value,Fair Value,Undervalued,0.02158701
-NRGV,NRGV,170270000.0,,0.754093,-0.69,-9.595834,-0.12,,0.574,Overvalued,Undervalued,Overvalued,N/A,Undervalued,Fair Value,Undervalued,Undervalued,Undervalued,Undervalued,Fair Value,Fair Value,0.17027
-PNW,PNW,8118189568.0,16.210884,1.3125861,4.41,14.589795,4.9,4.8800003,0.482,Fair Value,Undervalued,Undervalued,N/A,Overvalued,Fair Value,Fair Value,Overvalued,Fair Value,Overvalued,Fair Value,Fair Value,8.118189568
-PPL,PPL,19276675072.0,26.13,1.3823934,1.0,14.357142,1.82,3.9,0.835,Overvalued,Undervalued,Overvalued,N/A,Overvalued,Overvalued,Fair Value,Undervalued,Fair Value,Undervalued,Fair Value,Overvalued,19.276675072
-ORA,ORA,3643419648.0,29.009617,1.5729517,2.08,24.831276,2.43,0.7900001,0.47,Overvalued,Fair Value,Overvalued,N/A,Fair Value,Overvalued,Fair Value,Fair Value,Overvalued,Fair Value,Undervalued,Undervalued,3.643419648
-PNM,PNM,3238645248.0,35.20098,1.3786814,1.02,12.77758,2.81,4.29,0.359,Overvalued,Undervalued,Overvalued,N/A,Fair Value,Overvalued,Fair Value,Undervalued,Fair Value,Fair Value,Fair Value,Undervalued,3.238645248
-CDZI,CDZI,148360336.0,,3.6811352,-0.56,-11.605263,-0.19,,0.699,Overvalued,Overvalued,Overvalued,N/A,Undervalued,Fair Value,Overvalued,Undervalued,Undervalued,Undervalued,Fair Value,Fair Value,0.148360336
-WEC,WEC,24630878208.0,18.481043,2.0983105,4.22,14.9120455,5.23,4.2299999999999995,0.405,Fair Value,Overvalued,Overvalued,N/A,Overvalued,Fair Value,Overvalued,Overvalued,Fair Value,Overvalued,Fair Value,Undervalued,24.630878208
-NWE,NWE,2938150656.0,14.891304,1.0544256,3.22,12.99458,3.69,5.37,0.448,Undervalued,Undervalued,Undervalued,N/A,Undervalued,Fair Value,Undervalued,Overvalued,Fair Value,Overvalued,Overvalued,Undervalued,2.938150656
-UGI,UGI,4830150656.0,,1.1346295,-2.18,7.7090297,2.99,6.38,1.178,Overvalued,Undervalued,Overvalued,N/A,Fair Value,Fair Value,Undervalued,Undervalued,Undervalued,Fair Value,Overvalued,Overvalued,4.830150656
-SJW,SJW,1677400064.0,19.522387,1.3583965,2.68,17.44,3.0,2.92,0.579,Fair Value,Undervalued,Fair Value,N/A,Undervalued,Fair Value,Fair Value,Overvalued,Overvalued,Fair Value,Undervalued,Fair Value,1.677400064
-CPK,CPK,2204027392.0,20.926004,1.7661754,4.73,15.862181,6.24,2.35,0.61,Overvalued,Fair Value,Overvalued,N/A,Undervalued,Fair Value,Fair Value,Overvalued,Fair Value,Overvalued,Undervalued,Fair Value,2.204027392
-CWEN-A,CWEN-A,4351506432.0,30.791042,1.1489196,0.67,16.637096,1.24,7.6799995999999995,0.972,Overvalued,Undervalued,Overvalued,N/A,Fair Value,Overvalued,Undervalued,Undervalued,Fair Value,Undervalued,Overvalued,Overvalued,4.351506432
-ARTNA,ARTNA,350544064.0,20.413174,1.521875,1.67,16.233334,2.1,3.36,0.184,Overvalued,Fair Value,Overvalued,N/A,Undervalued,Fair Value,Fair Value,Fair Value,Fair Value,Undervalued,Fair Value,Undervalued,0.350544064
-ELPC,ELPC,5051224064.0,,,,,,,0.45,Overvalued,Overvalued,Overvalued,N/A,Overvalued,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value,Undervalued,5.051224064
-WTRG,WTRG,9269183488.0,18.219893,1.570826,1.86,15.910328,2.13,3.55,0.806,Fair Value,Fair Value,Overvalued,N/A,Overvalued,Fair Value,Fair Value,Fair Value,Fair Value,Undervalued,Fair Value,Overvalued,9.269183488
-AY,AY,1993288448.0,46.378376,1.4002448,0.37,22.285715,0.77,10.22,0.955,Overvalued,Undervalued,Overvalued,N/A,Undervalued,Overvalued,Fair Value,Undervalued,Overvalued,Undervalued,Overvalued,Overvalued,1.993288448
-ALCE,ALCE,29884876.0,,,,,,,0.251,Overvalued,Overvalued,Overvalued,N/A,Undervalued,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value,Undervalued,0.029884876
-MNTK,MNTK,535993536.0,33.909092,2.1181147,0.11,13.814815,0.27,,-0.488,Overvalued,Overvalued,Overvalued,N/A,Undervalued,Overvalued,Overvalued,Undervalued,Fair Value,Undervalued,Fair Value,Undervalued,0.535993536
-AGR,AGR,13823196160.0,17.605913,0.70354337,2.03,14.829876,2.41,4.9000002,0.558,Fair Value,Undervalued,Undervalued,N/A,Overvalued,Fair Value,Undervalued,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value,13.82319616
-EXC,EXC,36070440960.0,15.418805,1.3994803,2.34,13.770993,2.62,4.19,0.607,Fair Value,Undervalued,Undervalued,N/A,Overvalued,Fair Value,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value,Fair Value,36.07044096
-BIP,BIP,11571056640.0,179.03572,2.1731403,0.14,20.887499,1.2,6.38,0.966,Overvalued,Overvalued,Overvalued,N/A,Overvalued,Overvalued,Overvalued,Undervalued,Overvalued,Undervalued,Overvalued,Overvalued,11.57105664
-ALE,ALE,3310564864.0,13.351162,1.176965,4.3,13.701671,4.19,4.8800003,0.753,Undervalued,Undervalued,Undervalued,N/A,Fair Value,Undervalued,Undervalued,Overvalued,Fair Value,Overvalued,Fair Value,Overvalued,3.310564864
-RNW,RNW,1974495232.0,54.050003,0.018884143,0.1,inf,,,0.904,Overvalued,Undervalued,Undervalued,N/A,Undervalued,Overvalued,Undervalued,Undervalued,Overvalued,Fair Value,Fair Value,Overvalued,1.974495232
-NGG,NGG,47690850304.0,14.699074,7.9375,4.32,14.976416,4.24,5.48,0.289,Undervalued,Overvalued,Overvalued,N/A,Overvalued,Fair Value,Overvalued,Overvalued,Fair Value,Overvalued,Overvalued,Undervalued,47.690850304
-AQN,AQN,3959621632.0,191.16667,0.8141681,0.03,11.028847,0.52,7.46,0.469,Overvalued,Undervalued,Overvalued,N/A,Fair Value,Overvalued,Undervalued,Undervalued,Undervalued,Undervalued,Overvalued,Undervalued,3.959621632
-RGCO,RGCO,195543808.0,14.687023,1.8692315,1.31,15.149607,1.27,4.05,0.202,Undervalued,Fair Value,Overvalued,N/A,Undervalued,Fair Value,Overvalued,Undervalued,Fair Value,Undervalued,Fair Value,Undervalued,0.195543808
-CEG,CEG,58476969984.0,37.039898,5.384456,5.01,23.519632,7.89,0.76,0.743,Overvalued,Overvalued,Overvalued,N/A,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued,Undervalued,Overvalued,58.476969984
-ADN,ADN,12518485.0,,0.30704764,-1.75,-8.06,-0.02,,0.061,Overvalued,Undervalued,Overvalued,N/A,Undervalued,Fair Value,Undervalued,Undervalued,Undervalued,Undervalued,Fair Value,Undervalued,0.012518485
-OTTR,OTTR,3457873920.0,11.8242855,2.392473,7.0,19.801435,4.18,2.25,0.557,Undervalued,Overvalued,Overvalued,N/A,Fair Value,Undervalued,Overvalued,Overvalued,Overvalued,Overvalued,Undervalued,Fair Value,3.45787392
-VIASP,VIASP,,17.33282,1.4068263,1.17,,,14.99,1.305,Fair Value,Undervalued,Fair Value,N/A,Fair Value,Fair Value,Fair Value,Undervalued,Fair Value,Fair Value,Overvalued,Overvalued,
-AWR,AWR,2490055168.0,19.906252,3.186973,3.36,20.454128,3.27,2.54,0.426,Fair Value,Overvalued,Overvalued,N/A,Undervalued,Fair Value,Overvalued,Overvalued,Overvalued,Fair Value,Undervalued,Undervalued,2.490055168
-EDN,EDN,906124096.0,7.6386476,0.031551242,2.07,2.6135538,6.05,,1.344,Undervalued,Undervalued,Undervalued,N/A,Undervalued,Undervalued,Undervalued,Fair Value,Undervalued,Overvalued,Fair Value,Overvalued,0.906124096
-NRG,NRG,15860253696.0,,6.814282,-1.12,11.686708,6.32,2.23,1.134,Overvalued,Overvalued,Overvalued,N/A,Overvalued,Fair Value,Overvalued,Undervalued,Fair Value,Overvalued,Undervalued,Overvalued,15.860253696
-POR,POR,4082243072.0,17.309013,1.2291985,2.33,12.447532,3.24,4.65,0.588,Fair Value,Undervalued,Undervalued,N/A,Fair Value,Fair Value,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value,Fair Value,4.082243072
-SPH,SPH,1196565632.0,11.754717,2.1757858,1.59,7.597561,2.46,6.950000000000001,0.422,Undervalued,Overvalued,Fair Value,N/A,Undervalued,Undervalued,Overvalued,Fair Value,Undervalued,Fair Value,Overvalued,Undervalued,1.196565632
-LNT,LNT,12212436992.0,17.134712,1.8000416,2.78,14.522713,3.28,4.0,0.54,Fair Value,Fair Value,Overvalued,N/A,Overvalued,Fair Value,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value,Fair Value,12.212436992
-PCG,PCG,41980293120.0,15.290477,1.368013,1.05,10.921769,1.47,0.11999999,1.286,Fair Value,Undervalued,Undervalued,N/A,Overvalued,Fair Value,Fair Value,Undervalued,Undervalued,Undervalued,Undervalued,Overvalued,41.98029312
-YORW,YORW,483349248.0,20.313253,2.18507,1.66,19.952663,1.69,2.48,0.612,Overvalued,Overvalued,Overvalued,N/A,Undervalued,Fair Value,Overvalued,Fair Value,Overvalued,Undervalued,Undervalued,Fair Value,0.483349248
-BEP,BEP,13317813248.0,,1.0642527,-0.32,-36.581272,-0.55,6.92,0.793,Overvalued,Undervalued,Overvalued,N/A,Overvalued,Fair Value,Undervalued,Undervalued,Undervalued,Undervalued,Overvalued,Overvalued,13.317813248
-EIX,EIX,25752672256.0,21.52595,1.8587252,3.11,11.9974375,5.58,4.6,0.967,Overvalued,Fair Value,Overvalued,N/A,Overvalued,Overvalued,Overvalued,Overvalued,Fair Value,Overvalued,Fair Value,Overvalued,25.752672256
-VIA,VIA,78258536.0,,0.7506139,-1.34,,,,1.305,Overvalued,Undervalued,Overvalued,N/A,Undervalued,Fair Value,Undervalued,Undervalued,Fair Value,Fair Value,Fair Value,Overvalued,0.078258536
-NI,NI,11863535616.0,17.885134,1.5214392,1.48,14.231182,1.86,3.95,0.491,Fair Value,Fair Value,Overvalued,N/A,Overvalued,Fair Value,Fair Value,Fair Value,Fair Value,Undervalued,Fair Value,Fair Value,11.863535616
-SBS,SBS,10594527232.0,13.777272,0.34693924,1.1,12.124,1.25,1.72,0.54,Undervalued,Undervalued,Undervalued,N/A,Overvalued,Undervalued,Undervalued,Undervalued,Fair Value,Undervalued,Undervalued,Fair Value,10.594527232
-CMS,CMS,17039142912.0,18.956812,2.2951612,3.01,15.85,3.6,3.58,0.38,Fair Value,Overvalued,Overvalued,N/A,Overvalued,Fair Value,Overvalued,Overvalued,Fair Value,Overvalued,Fair Value,Undervalued,17.039142912
-ELP,ELP,5249748992.0,11.932204,0.8791208,0.59,11.540983,0.61,7.7199996,0.45,Undervalued,Undervalued,Undervalued,N/A,Overvalued,Undervalued,Undervalued,Undervalued,Fair Value,Undervalued,Overvalued,Undervalued,5.249748992
-SRE,SRE,42446655488.0,14.00835,1.5248266,4.79,12.978723,5.17,3.64,0.714,Undervalued,Fair Value,Undervalued,N/A,Overvalued,Undervalued,Fair Value,Overvalued,Fair Value,Overvalued,Fair Value,Fair Value,42.446655488
-FLNC,FLNC,2836691968.0,,4.847375,-0.53,16.893618,0.94,,2.562,Overvalued,Overvalued,Overvalued,N/A,Undervalued,Fair Value,Overvalued,Undervalued,Fair Value,Undervalued,Fair Value,Overvalued,2.836691968
-HE,HE,1026931904.0,5.1437016,0.4373608,1.81,4.2127147,2.21,,0.533,Undervalued,Undervalued,Undervalued,N/A,Undervalued,Undervalued,Undervalued,Fair Value,Undervalued,Undervalued,Fair Value,Fair Value,1.026931904
-CWCO,CWCO,385731712.0,12.647669,2.060959,1.93,16.38255,1.49,1.52,0.102,Undervalued,Overvalued,Fair Value,N/A,Undervalued,Undervalued,Overvalued,Fair Value,Fair Value,Undervalued,Undervalued,Undervalued,0.385731712
-NEP,NEP,2528367360.0,79.5,0.7073694,0.34,16.582823,1.63,12.72,0.997,Overvalued,Undervalued,Overvalued,N/A,Undervalued,Overvalued,Undervalued,Undervalued,Fair Value,Undervalued,Overvalued,Overvalued,2.52836736
-AEE,AEE,18839664640.0,16.139269,1.6587278,4.38,14.39715,4.91,3.74,0.449,Fair Value,Fair Value,Fair Value,N/A,Overvalued,Fair Value,Fair Value,Overvalued,Fair Value,Overvalued,Fair Value,Undervalued,18.83966464
-BKH,BKH,3493691136.0,13.084398,1.0851167,3.91,12.447688,4.11,5.0,0.644,Undervalued,Undervalued,Undervalued,N/A,Fair Value,Undervalued,Undervalued,Overvalued,Fair Value,Overvalued,Overvalued,Fair Value,3.493691136
-FTS,FTS,18417813504.0,16.58,0.9204974,2.25,15.479253,2.41,4.67,0.178,Fair Value,Undervalued,Undervalued,N/A,Overvalued,Fair Value,Undervalued,Overvalued,Fair Value,Fair Value,Fair Value,Undervalued,18.417813504
-PCYO,PCYO,227397312.0,34.96296,1.8879999,0.27,104.88888,0.09,,0.974,Overvalued,Fair Value,Overvalued,N/A,Undervalued,Overvalued,Overvalued,Undervalued,Overvalued,Undervalued,Fair Value,Overvalued,0.227397312
-IDA,IDA,4530287104.0,17.386187,1.5556619,5.14,15.487868,5.77,3.6799999999999997,0.565,Fair Value,Fair Value,Overvalued,N/A,Fair Value,Fair Value,Fair Value,Overvalued,Fair Value,Overvalued,Fair Value,Fair Value,4.530287104
-XEL,XEL,29320484864.0,16.443926,1.6628339,3.21,13.781984,3.83,4.1199997,0.372,Fair Value,Fair Value,Overvalued,N/A,Overvalued,Fair Value,Fair Value,Overvalued,Fair Value,Overvalued,Fair Value,Undervalued,29.320484864
-D,D,39358746624.0,18.9477,1.5294828,2.48,13.780146,3.41,5.57,0.608,Fair Value,Fair Value,Overvalued,N/A,Overvalued,Fair Value,Fair Value,Overvalued,Fair Value,Overvalued,Overvalued,Fair Value,39.358746624
-VST,VST,23044700160.0,18.452513,8.193995,3.58,14.055319,4.7,1.26,1.068,Fair Value,Overvalued,Overvalued,N/A,Overvalued,Fair Value,Overvalued,Overvalued,Fair Value,Overvalued,Undervalued,Overvalued,23.04470016
-OGS,OGS,3450167808.0,14.731885,1.2468823,4.14,14.731885,4.14,4.2600001999999995,0.653,Undervalued,Undervalued,Undervalued,N/A,Fair Value,Fair Value,Fair Value,Overvalued,Fair Value,Overvalued,Fair Value,Fair Value,3.450167808
-ATO,ATO,16909163520.0,17.907347,1.4998863,6.26,15.878187,7.06,2.8499998,0.663,Fair Value,Undervalued,Fair Value,N/A,Overvalued,Fair Value,Fair Value,Overvalued,Fair Value,Overvalued,Undervalued,Fair Value,16.90916352
-AWK,AWK,22312964096.0,23.421268,2.2764404,4.89,20.199293,5.67,2.4400001000000002,0.624,Overvalued,Overvalued,Overvalued,N/A,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued,Undervalued,Fair Value,22.312964096
-ED,ED,30416533504.0,12.202497,1.4363143,7.21,15.710715,5.6,3.7199999999999998,0.353,Undervalued,Undervalued,Undervalued,N/A,Overvalued,Undervalued,Fair Value,Overvalued,Fair Value,Overvalued,Fair Value,Undervalued,30.416533504
-VGAS,VGAS,39648104.0,,3.5575294,-0.45,,,,-0.487,Overvalued,Overvalued,Overvalued,N/A,Undervalued,Fair Value,Overvalued,Undervalued,Fair Value,Fair Value,Fair Value,Undervalued,0.039648104
-CREG,CREG,9476494.0,,0.08815469,-0.53,,,,0.788,Overvalued,Undervalued,Overvalued,N/A,Undervalued,Fair Value,Undervalued,Undervalued,Fair Value,Fair Value,Fair Value,Overvalued,0.009476494
-EVRG,EVRG,11441420288.0,15.709873,1.1839455,3.17,12.326807,4.04,5.1,0.567,Fair Value,Undervalued,Undervalued,N/A,Overvalued,Fair Value,Undervalued,Overvalued,Fair Value,Overvalued,Overvalued,Fair Value,11.441420288
-SO,SO,74352746496.0,18.763813,2.3567886,3.62,15.759862,4.31,4.0900003,0.49,Fair Value,Overvalued,Overvalued,N/A,Overvalued,Fair Value,Overvalued,Overvalued,Fair Value,Overvalued,Fair Value,Fair Value,74.352746496
-OPAL,OPAL,479159584.0,6.8768115,,0.69,8.95283,0.53,,0.522,Undervalued,Overvalued,Overvalued,N/A,Undervalued,Undervalued,Fair Value,Undervalued,Undervalued,Undervalued,Fair Value,Fair Value,0.479159584
-AEP,AEP,41937629184.0,18.78302,1.6598237,4.24,13.362416,5.96,4.35,0.508,Fair Value,Fair Value,Overvalued,N/A,Overvalued,Fair Value,Fair Value,Overvalued,Fair Value,Overvalued,Fair Value,Fair Value,41.937629184
-UTL,UTL,785004608.0,17.221632,1.6003228,2.82,15.666129,3.1,3.4799999999999995,0.575,Fair Value,Fair Value,Overvalued,N/A,Undervalued,Fair Value,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value,Fair Value,0.785004608
-NWN,NWN,1352250880.0,13.729731,1.0423262,2.59,12.654805,2.81,5.46,0.554,Undervalued,Undervalued,Undervalued,N/A,Undervalued,Undervalued,Undervalued,Overvalued,Fair Value,Fair Value,Overvalued,Fair Value,1.35225088
-NEE,NEE,127069585408.0,17.180555,2.6736696,3.6,16.807064,3.68,3.2800000000000002,0.515,Fair Value,Overvalued,Overvalued,N/A,Overvalued,Fair Value,Overvalued,Overvalued,Fair Value,Overvalued,Fair Value,Fair Value,127.069585408
+Ticker,symbol,Market Cap,Trailing P/E,P/B Ratio,Trailing EPS,Forward P/E,Forward EPS,Dividend Yield %,Beta,Trailing P/E Graham Status,P/B Ratio Graham Status,Combined P/E x P/B Graham Status,Trailing P/E Sector Status,Forward P/E Sector Status,P/B Ratio Sector Status
+CWT,CWT,2524443648.0,48.0989,1.770846,0.91,18.390755,2.38,2.52,0.498,Overvalued,Fair Value,Overvalued,Overvalued,Overvalued,Fair Value
+ES,ES,20061585408.0,,1.4106042,-1.27,11.916666,4.8,4.9099997,0.597,Overvalued,Undervalued,Overvalued,Fair Value,Fair Value,Fair Value
+CPK,CPK,2219169280.0,21.069769,1.7783092,4.73,15.971155,6.24,2.35,0.61,Overvalued,Fair Value,Overvalued,Overvalued,Fair Value,Fair Value
+HTOO,HTOO,24818560.0,,1.0289389,-2.58,-2.064516,-0.62,,1.675,Overvalued,Undervalued,Overvalued,Fair Value,Undervalued,Undervalued
+SBS,SBS,10598022144.0,13.781817,0.3470537,1.1,12.128,1.25,1.72,0.54,Undervalued,Undervalued,Undervalued,Undervalued,Fair Value,Undervalued
+EIX,EIX,25700470784.0,21.482315,1.8549573,3.11,11.973118,5.58,4.6,0.967,Overvalued,Fair Value,Overvalued,Overvalued,Fair Value,Overvalued
+DUK,DUK,71645487104.0,17.35888,1.5186251,5.35,14.671407,6.33,4.36,0.465,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value
+VGAS,VGAS,46389696.0,,4.1624365,-0.45,,,,-0.487,Overvalued,Overvalued,Overvalued,Fair Value,Fair Value,Overvalued
+NGG,NGG,47705870336.0,14.703703,7.94,4.32,14.981133,4.24,5.48,0.289,Undervalued,Overvalued,Overvalued,Fair Value,Fair Value,Overvalued
+EBR,EBR,16964321280.0,21.529411,0.1466493,0.34,8.133334,0.9,0.58999998,0.505,Overvalued,Undervalued,Undervalued,Overvalued,Undervalued,Undervalued
+IDA,IDA,4519388160.0,17.344358,1.5519192,5.14,15.450607,5.77,3.6799999999999997,0.565,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value
+D,D,39249608704.0,18.89516,1.5252417,2.48,13.741936,3.41,5.57,0.608,Fair Value,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value
+PNM,PNM,3244508416.0,35.26471,1.3811774,1.02,12.800713,2.81,4.29,0.359,Overvalued,Undervalued,Overvalued,Overvalued,Fair Value,Fair Value
+NWE,NWE,2935086848.0,14.875776,1.0533261,3.22,12.98103,3.69,5.37,0.448,Undervalued,Undervalued,Undervalued,Fair Value,Fair Value,Undervalued
+SJW,SJW,1665217152.0,19.380596,1.3485305,2.68,17.313334,3.0,2.92,0.579,Fair Value,Undervalued,Fair Value,Fair Value,Overvalued,Fair Value
+EDN,EDN,955865792.0,8.057971,0.03328325,2.07,2.7570248,6.05,,1.344,Undervalued,Undervalued,Undervalued,Undervalued,Undervalued,Undervalued
+CWCO,CWCO,380991040.0,12.4922285,2.03563,1.93,16.181208,1.49,1.52,0.102,Undervalued,Overvalued,Fair Value,Undervalued,Fair Value,Overvalued
+RNW,RNW,1943443840.0,53.2,0.018587166,0.1,inf,,,0.904,Overvalued,Undervalued,Undervalued,Overvalued,Overvalued,Undervalued
+SR,SR,3196734720.0,15.671159,1.1379026,3.71,12.694324,4.58,5.17,0.523,Fair Value,Undervalued,Undervalued,Fair Value,Fair Value,Undervalued
+ARTNA,ARTNA,346739392.0,20.191618,1.5053573,1.67,16.057144,2.1,3.36,0.184,Overvalued,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value
+BEP,BEP,13245200384.0,,1.0584501,-0.32,-36.381817,-0.55,6.92,0.793,Overvalued,Undervalued,Overvalued,Fair Value,Undervalued,Undervalued
+POR,POR,4104511488.0,17.403433,1.2359036,2.33,12.515431,3.24,4.65,0.588,Fair Value,Undervalued,Undervalued,Fair Value,Fair Value,Fair Value
+MGEE,MGEE,2673761024.0,22.741539,2.3444142,3.25,18.4775,4.0,2.25,0.724,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued
+NI,NI,11903873024.0,17.945946,1.5266122,1.48,14.27957,1.86,3.95,0.491,Fair Value,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value
+NJR,NJR,4057968640.0,16.987654,2.0235293,2.43,14.234482,2.9,4.04,0.653,Fair Value,Overvalued,Overvalued,Fair Value,Fair Value,Overvalued
+AVA,AVA,2588738560.0,14.78125,1.0401156,2.24,12.833334,2.58,5.609999999999999,0.494,Undervalued,Undervalued,Undervalued,Fair Value,Fair Value,Undervalued
+KEP,KEP,9503978496.0,,0.00013145518,-2.68,1.5818967,4.64,,0.784,Overvalued,Undervalued,Overvalued,Fair Value,Undervalued,Undervalued
+PNW,PNW,8086393856.0,16.147392,1.3074452,4.41,14.532653,4.9,4.8800003,0.482,Fair Value,Undervalued,Undervalued,Fair Value,Fair Value,Fair Value
+VIASP,VIASP,,17.11171,1.3888797,1.17,,,14.99,1.305,Fair Value,Undervalued,Fair Value,Fair Value,Fair Value,Fair Value
+VIA,VIA,78330144.0,,0.75130075,-1.34,,,,1.305,Overvalued,Undervalued,Overvalued,Fair Value,Fair Value,Undervalued
+BKH,BKH,3496422656.0,13.094629,1.0859652,3.91,12.45742,4.11,5.0,0.644,Undervalued,Undervalued,Undervalued,Undervalued,Fair Value,Undervalued
+PPL,PPL,19188148224.0,26.01,1.3760449,1.0,14.291208,1.82,3.9,0.835,Overvalued,Undervalued,Overvalued,Overvalued,Fair Value,Fair Value
+XEL,XEL,29178839040.0,16.364485,1.6548009,3.21,13.7154045,3.83,4.1199997,0.372,Fair Value,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value
+AES,AES,11308955648.0,46.794117,6.4569807,0.34,7.649039,2.08,4.19,1.087,Overvalued,Overvalued,Overvalued,Overvalued,Undervalued,Overvalued
+OGE,OGE,6515772416.0,15.695654,1.4424615,2.07,14.187774,2.29,5.09,0.719,Fair Value,Undervalued,Fair Value,Fair Value,Fair Value,Fair Value
+ALCE,ALCE,31677968.0,,,,,,,0.251,Overvalued,Overvalued,Overvalued,Fair Value,Fair Value,Fair Value
+RGCO,RGCO,194832384.0,14.633589,1.8624307,1.31,15.094488,1.27,4.05,0.202,Undervalued,Fair Value,Overvalued,Fair Value,Fair Value,Overvalued
+SPH,SPH,1187602432.0,11.666666,2.1594877,1.59,7.54065,2.46,6.950000000000001,0.422,Undervalued,Overvalued,Fair Value,Undervalued,Undervalued,Overvalued
+EVRG,EVRG,11386212352.0,15.634069,1.1782327,3.17,12.267327,4.04,5.1,0.567,Fair Value,Undervalued,Undervalued,Fair Value,Fair Value,Undervalued
+CEG,CEG,58817331200.0,37.255486,5.415796,5.01,23.656527,7.89,0.76,0.743,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued
+FE,FE,21196257280.0,18.790817,2.0267444,1.96,12.877624,2.86,4.5500003,0.479,Fair Value,Overvalued,Overvalued,Fair Value,Fair Value,Overvalued
+ARIS,ARIS,810356864.0,23.644068,1.302886,0.59,10.648855,1.31,2.56,1.675,Overvalued,Undervalued,Overvalued,Overvalued,Undervalued,Fair Value
+BNRG,BNRG,5643659.0,,1.7115096,-4.99,,,,,Overvalued,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value
+SRE,SRE,42010173440.0,13.864302,1.5091467,4.79,12.845262,5.17,3.64,0.714,Undervalued,Fair Value,Undervalued,Undervalued,Fair Value,Fair Value
+TAC,TAC,1880352640.0,3.6153846,3.151109,1.69,27.772728,0.22,2.91,0.886,Undervalued,Overvalued,Undervalued,Undervalued,Overvalued,Overvalued
+WTRG,WTRG,9266722816.0,18.215054,1.5704089,1.86,15.906103,2.13,3.55,0.806,Fair Value,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value
+KEN,KEN,1126746240.0,,0.93619823,-4.42,-16.174242,-1.32,33.52,0.644,Overvalued,Undervalued,Overvalued,Fair Value,Undervalued,Undervalued
+UGI,UGI,4842723840.0,,1.137583,-2.18,7.7290974,2.99,6.38,1.178,Overvalued,Undervalued,Overvalued,Fair Value,Undervalued,Undervalued
+CEPU,CEPU,1839031168.0,,0.016993353,-0.03,8.675925,1.08,9.53,0.97,Overvalued,Undervalued,Overvalued,Fair Value,Undervalued,Undervalued
+CREG,CREG,9476494.0,,0.08815469,-0.53,,,,0.788,Overvalued,Undervalued,Overvalued,Fair Value,Fair Value,Undervalued
+NEP,NEP,2525561088.0,79.411766,0.7065843,0.34,16.564417,1.63,12.72,0.997,Overvalued,Undervalued,Overvalued,Overvalued,Fair Value,Undervalued
+ENLT,ENLT,1969982208.0,29.298246,1.6855067,0.57,16.7,1.0,,0.648,Overvalued,Fair Value,Overvalued,Overvalued,Fair Value,Fair Value
+SO,SO,74183073792.0,18.720995,2.3514104,3.62,15.723897,4.31,4.0900003,0.49,Fair Value,Overvalued,Overvalued,Fair Value,Fair Value,Overvalued
+MSEX,MSEX,816570816.0,26.045454,1.9312437,1.76,19.020746,2.41,2.75,0.741,Overvalued,Fair Value,Overvalued,Overvalued,Overvalued,Overvalued
+FTS,FTS,18336352256.0,16.506666,0.91642606,2.25,15.410788,2.41,4.67,0.178,Fair Value,Undervalued,Undervalued,Fair Value,Fair Value,Undervalued
+OGS,OGS,3454127616.0,14.748793,1.2483133,4.14,14.748793,4.14,4.2600001999999995,0.653,Undervalued,Undervalued,Undervalued,Fair Value,Fair Value,Fair Value
+AY,AY,1992126848.0,46.35135,1.3994287,0.37,22.272728,0.77,10.22,0.955,Overvalued,Undervalued,Overvalued,Overvalued,Overvalued,Fair Value
+SWX,SWX,5247892480.0,34.394367,1.5838974,2.13,19.907608,3.68,3.4299999999999997,0.359,Overvalued,Fair Value,Overvalued,Overvalued,Overvalued,Fair Value
+CDZI,CDZI,144659744.0,,3.589316,-0.56,-11.31579,-0.19,,0.699,Overvalued,Overvalued,Overvalued,Fair Value,Undervalued,Overvalued
+AEE,AEE,18746382336.0,16.059359,1.650515,4.38,14.325866,4.91,3.74,0.449,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value
+AQN,AQN,3914743808.0,189.0,0.80494034,0.03,10.903847,0.52,7.46,0.469,Overvalued,Undervalued,Overvalued,Overvalued,Undervalued,Undervalued
+HE,HE,1050084608.0,5.259669,0.4472213,1.81,4.3076925,2.21,,0.533,Undervalued,Undervalued,Undervalued,Undervalued,Undervalued,Undervalued
+YORW,YORW,477758912.0,20.078314,2.159798,1.66,19.721893,1.69,2.48,0.612,Overvalued,Overvalued,Overvalued,Fair Value,Overvalued,Overvalued
+AMPS,AMPS,594735040.0,,1.3229018,-0.06,23.25,0.16,,0.88,Overvalued,Undervalued,Overvalued,Fair Value,Overvalued,Fair Value
+NRG,NRG,16001977344.0,,6.8751726,-1.12,11.791139,6.32,2.23,1.134,Overvalued,Overvalued,Overvalued,Fair Value,Fair Value,Overvalued
+WEC,WEC,24570873856.0,18.43602,2.0931985,4.22,14.875717,5.23,4.2299999999999995,0.405,Fair Value,Overvalued,Overvalued,Fair Value,Fair Value,Overvalued
+ALE,ALE,3309988352.0,13.348837,1.1767601,4.3,13.699285,4.19,4.8800003,0.753,Undervalued,Undervalued,Undervalued,Undervalued,Fair Value,Undervalued
+ENIC,ENIC,4117143552.0,5.875,0.73246753,0.48,0.008004087,352.32,11.939999499999999,0.724,Undervalued,Undervalued,Undervalued,Undervalued,Undervalued,Undervalued
+WAVE,WAVE,22141946.0,,2.7843685,-0.32,,,,-0.203,Overvalued,Overvalued,Overvalued,Fair Value,Fair Value,Overvalued
+FLNC,FLNC,2867059456.0,,4.899267,-0.53,17.074467,0.94,,2.562,Overvalued,Overvalued,Overvalued,Fair Value,Fair Value,Overvalued
+ELP,ELP,5257206272.0,11.949153,0.8803696,0.59,11.557377,0.61,7.7199996,0.45,Undervalued,Undervalued,Undervalued,Undervalued,Fair Value,Undervalued
+MNTK,MNTK,518031296.0,32.772728,2.0471323,0.11,13.351851,0.27,,-0.488,Overvalued,Overvalued,Overvalued,Overvalued,Fair Value,Overvalued
+ADN,ADN,12658270.0,,0.3104762,-1.75,-8.150001,-0.02,,0.061,Overvalued,Undervalued,Overvalued,Fair Value,Undervalued,Undervalued
+UTL,UTL,781852672.0,17.152483,1.5938972,2.82,15.603226,3.1,3.4799999999999995,0.575,Fair Value,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value
+CMS,CMS,16988377088.0,18.900331,2.2883232,3.01,15.802778,3.6,3.58,0.38,Fair Value,Overvalued,Overvalued,Fair Value,Fair Value,Overvalued
+PCYO,PCYO,229806192.0,35.333332,1.908,0.27,105.99999,0.09,,0.974,Overvalued,Fair Value,Overvalued,Overvalued,Overvalued,Overvalued
+OTTR,OTTR,3471660288.0,11.8714285,2.4020116,7.0,19.880383,4.18,2.25,0.557,Undervalued,Overvalued,Overvalued,Undervalued,Overvalued,Overvalued
+NEE,NEE,126761418752.0,17.13889,2.6671855,3.6,16.766304,3.68,3.2800000000000002,0.515,Fair Value,Overvalued,Overvalued,Fair Value,Fair Value,Overvalued
+CWEN-A,CWEN-A,4279790336.0,30.283583,1.1299845,0.67,16.362904,1.24,7.6799995999999995,0.972,Overvalued,Undervalued,Overvalued,Overvalued,Fair Value,Undervalued
+PCG,PCG,41914925056.0,15.266668,1.3658828,1.05,10.904762,1.47,0.11999999,1.286,Fair Value,Undervalued,Undervalued,Fair Value,Undervalued,Fair Value
+CNP,CNP,17232900096.0,19.868612,1.7773424,1.37,15.643678,1.74,2.92,0.932,Fair Value,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value
+ED,ED,30222927872.0,12.124826,1.4271721,7.21,15.610714,5.6,3.7199999999999998,0.353,Undervalued,Undervalued,Undervalued,Undervalued,Fair Value,Fair Value
+NFE,NFE,5661209600.0,10.418868,3.45125,2.65,7.2849607,3.79,1.43,1.506,Undervalued,Overvalued,Overvalued,Undervalued,Undervalued,Overvalued
+AWR,AWR,2478327808.0,19.8125,3.1719637,3.36,20.357798,3.27,2.54,0.426,Fair Value,Overvalued,Overvalued,Fair Value,Overvalued,Overvalued
+VST,VST,23581921280.0,18.88268,8.3850155,3.58,14.382979,4.7,1.26,1.068,Fair Value,Overvalued,Overvalued,Fair Value,Fair Value,Overvalued
+AGR,AGR,13811592192.0,17.591133,0.70295274,2.03,14.817427,2.41,4.9000002,0.558,Fair Value,Undervalued,Undervalued,Fair Value,Fair Value,Undervalued
+BIP,BIP,11564131328.0,178.92856,2.1718397,0.14,20.874998,1.2,6.38,0.966,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued
+AWK,AWK,22174640128.0,23.276073,2.2623284,4.89,20.074074,5.67,2.4400001000000002,0.624,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued
+NWN,NWN,1350349312.0,13.710424,1.0408605,2.59,12.637011,2.81,5.46,0.554,Undervalued,Undervalued,Undervalued,Undervalued,Fair Value,Undervalued
+ETR,ETR,21454379008.0,9.063964,1.4644834,11.1,13.015524,7.73,4.42,0.705,Undervalued,Undervalued,Undervalued,Undervalued,Fair Value,Fair Value
+ELPC,ELPC,5059424768.0,,,,,,,0.45,Overvalued,Overvalued,Overvalued,Fair Value,Fair Value,Fair Value
+ORA,ORA,3619267072.0,28.817308,1.5625244,2.08,24.666666,2.43,0.7900001,0.47,Overvalued,Fair Value,Overvalued,Overvalued,Overvalued,Fair Value
+GWRS,GWRS,293011904.0,36.727272,6.0268526,0.33,35.647057,0.34,2.5100000000000002,0.976,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued,Overvalued
+OPAL,OPAL,478654656.0,6.869565,,0.69,8.943397,0.53,,0.522,Undervalued,Overvalued,Overvalued,Undervalued,Undervalued,Fair Value
+PEG,PEG,32049172480.0,12.530214,2.068344,5.13,15.990049,4.02,3.6799999999999997,0.595,Undervalued,Overvalued,Fair Value,Undervalued,Fair Value,Overvalued
+EXC,EXC,35740524544.0,15.277779,1.3866801,2.34,13.645039,2.62,4.19,0.607,Fair Value,Undervalued,Undervalued,Fair Value,Fair Value,Fair Value
+ATO,ATO,16943857664.0,17.94409,1.5029637,6.26,15.910766,7.06,2.8499998,0.663,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value,Fair Value
+AEP,AEP,41869172736.0,18.75236,1.6571144,4.24,13.340604,5.96,4.35,0.508,Fair Value,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value
+NRGV,NRGV,174484240.0,,0.77275705,-0.69,-9.833333,-0.12,,0.574,Overvalued,Undervalued,Overvalued,Fair Value,Undervalued,Undervalued
+LNT,LNT,12152317952.0,17.05036,1.7911803,2.78,14.4512205,3.28,4.0,0.54,Fair Value,Fair Value,Overvalued,Fair Value,Fair Value,Fair Value
