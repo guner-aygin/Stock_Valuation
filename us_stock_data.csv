@@ -39,7 +39,6 @@ ACA,Arcosa Inc,NYSE,Stock,2018-10-30,,Active,Industrials
 ACAB,Atlantic Coastal Acquisition Corp II - Class A,NASDAQ,Stock,2022-03-09,,Active,Financial Services
 ACAC,Acri Capital Acquisition Corp - Class A,NASDAQ,Stock,2022-08-08,,Active,Financial Services
 ACAD,Acadia Pharmaceuticals Inc,NASDAQ,Stock,2004-05-27,,Active,Healthcare
-ACAH,Atlantic Coastal Acquisition Corp - Class A,NASDAQ,Stock,2021-04-28,,Active,Financial Services
 ACB,Aurora Cannabis Inc,NASDAQ,Stock,2014-07-11,,Active,Healthcare
 ACBA,Ace Global Business Acquisition Ltd,NASDAQ,Stock,2021-05-26,,Active,Financial Services
 ACCD,Accolade Inc,NASDAQ,Stock,2020-07-02,,Active,Healthcare
@@ -240,7 +239,6 @@ ALTI,AlTi Global Inc - Class A,NASDAQ,Stock,2023-01-03,,Active,Financial Service
 ALTM,Arcadium Lithium PLC,NYSE,Stock,2024-01-03,,Active,Basic Materials
 ALTO,Alto Ingredients Inc,NASDAQ,Stock,2005-03-24,,Active,Basic Materials
 ALTR,Altair Engineering Inc - Class A,NASDAQ,Stock,2017-11-01,,Active,Technology
-ALTU,Altitude Acquisition Corp - Class A,NASDAQ,Stock,2021-01-29,,Active,Financial Services
 ALUR,Allurion Technologies Inc,NYSE,Stock,2023-08-02,,Active,Healthcare
 ALV,Autoliv Inc,NYSE,Stock,1997-04-28,,Active,Consumer Cyclical
 ALVO,Alvotech,NASDAQ,Stock,2022-06-16,,Active,Healthcare
@@ -390,7 +388,6 @@ ARQ,Arq Inc,NASDAQ,Stock,2004-01-23,,Active,Industrials
 ARQQ,Arqit Quantum Inc,NASDAQ,Stock,2021-09-07,,Active,Technology
 ARQT,Arcutis Biotherapeutics Inc,NASDAQ,Stock,2020-01-31,,Active,Healthcare
 ARR,ARMOUR Residential REIT Inc,NYSE,Stock,2007-12-03,,Active,Real Estate
-ARRW,Arrowroot Acquisition Corp - Class A,NASDAQ,Stock,2021-04-26,,Active,Financial Services
 ARRY,Array Technologies Inc,NASDAQ,Stock,2020-10-15,,Active,Technology
 ARTL,Artelo Biosciences Inc,NASDAQ,Stock,2017-11-14,,Active,Healthcare
 ARTNA,Artesian Resources Corp - Class A,NASDAQ,Stock,1996-05-24,,Active,Utilities
@@ -899,7 +896,6 @@ CAVA,Cava Group Inc,NYSE,Stock,2023-06-15,,Active,Consumer Cyclical
 CB,Chubb Ltd,NYSE,Stock,1984-09-07,,Active,Financial Services
 CBAN,Colony Bankcorp Inc,NASDAQ,Stock,1998-04-02,,Active,Financial Services
 CBAT,CBAK Energy Technology Inc,NASDAQ,Stock,2002-09-25,,Active,Industrials
-CBD,Companhia Brasileira De Distribuicao. ADR (),NYSE,Stock,1996-03-08,,Active,Consumer Cyclical
 CBFV,CB Financial Services Inc,NASDAQ,Stock,2001-06-06,,Active,Financial Services
 CBNK,Capital Bancorp Inc,NASDAQ,Stock,2018-09-26,,Active,Financial Services
 CBRE,CBRE Group Inc - Class A,NYSE,Stock,2004-06-10,,Active,Real Estate
@@ -946,6 +942,7 @@ CDP,COPT Defense Properties,NYSE,Stock,1991-12-31,,Active,Real Estate
 CDRE,Cadre Holdings Inc,NYSE,Stock,2021-11-04,,Active,Industrials
 CDRO,Codere Online Luxembourg S.A,NASDAQ,Stock,2021-12-01,,Active,Consumer Cyclical
 CDT,Conduit Pharmaceuticals Inc,NASDAQ,Stock,2023-09-25,,Active,Healthcare
+CDTG,CDT Environmental Technology Investment Holdings Ltd,NASDAQ,Stock,2024-04-18,,Active,Industrials
 CDTTW,Conduit Pharmaceuticals Inc Wt Exp,NASDAQ,Stock,2023-09-25,,Active,Healthcare
 CDTX,Cidara Therapeutics Inc,NASDAQ,Stock,2015-04-15,,Active,Healthcare
 CDW,CDW Corp,NASDAQ,Stock,2013-06-27,,Active,Technology
@@ -1037,6 +1034,7 @@ CITE,Cartica Acquisition Corp - Class A,NASDAQ,Stock,2022-02-25,,Active,Financia
 CIVB,Civista Bancshares Inc,NASDAQ,Stock,2001-01-02,,Active,Financial Services
 CIVI,Civitas Resources Inc New,NYSE,Stock,2011-12-15,,Active,Energy
 CJET,Chijet Motor Company Inc,NASDAQ,Stock,2023-06-01,,Active,Consumer Cyclical
+CJJD,China Jo-Jo Drugstores Inc,NASDAQ,Stock,2008-05-16,,Active,Healthcare
 CKPT,Checkpoint Therapeutics Inc,NASDAQ,Stock,2016-12-19,,Active,Healthcare
 CL,Colgate-Palmolive Company,NYSE,Stock,1977-01-03,,Active,Consumer Defensive
 CLAR,Clarus Corp,NASDAQ,Stock,1998-05-27,,Active,Consumer Cyclical
@@ -1261,6 +1259,7 @@ CTNT,Cheetah Net Supply Chain Service Inc - Class A,NASDAQ,Stock,2023-08-01,,Act
 CTOS,Custom Truck One Source Inc,NYSE,Stock,2024-03-20,,Active,Industrials
 CTRA,Coterra Energy Inc,NYSE,Stock,1990-02-08,,Active,Energy
 CTRE,CareTrust REIT Inc,NYSE,Stock,2014-05-29,,Active,Real Estate
+CTRI,Centuri Holdings Inc,NYSE,Stock,2024-04-18,,Active,Utilities
 CTRM,Castor Maritime Inc,NASDAQ,Stock,2019-02-11,,Active,Industrials
 CTRN,Citi Trends Inc,NASDAQ,Stock,2005-05-18,,Active,Consumer Cyclical
 CTS,CTS Corp,NYSE,Stock,1987-11-05,,Active,Technology
@@ -1553,7 +1552,6 @@ EGO,Eldorado Gold Corp,NYSE,Stock,2003-01-23,,Active,Basic Materials
 EGOX,Next.e.GO N.V.,NASDAQ,Stock,2023-10-20,,Active,Consumer Cyclical
 EGP,Eastgroup Properties Inc,NYSE,Stock,1992-03-17,,Active,Real Estate
 EGRX,Eagle Pharmaceuticals Inc,NASDAQ,Stock,2014-02-12,,Active,Healthcare
-EGY,VAALCO Energy Inc,NYSE,Stock,1993-01-29,,Active,Energy
 EH,EHang Holdings Ltd,NASDAQ,Stock,2019-12-12,,Active,Industrials
 EHAB,Enhabit Inc,NYSE,Stock,2022-07-01,,Active,Healthcare
 EHC,Encompass Health Corp,NYSE,Stock,2017-12-29,,Active,Healthcare
@@ -2011,7 +2009,6 @@ GFS,GlobalFoundries Inc,NASDAQ,Stock,2021-10-28,,Active,Technology
 GGAAF,Genesis Growth Tech Acquisition Corp - Class A,NASDAQ,Stock,2022-02-03,,Active,Financial Services
 GGAL,Grupo Financiero Galicia,NASDAQ,Stock,2000-07-25,,Active,Financial Services
 GGB,Gerdau S.A.,NYSE,Stock,1999-03-10,,Active,Basic Materials
-GGE,Green Giant Inc,NASDAQ,Stock,2008-03-24,,Active,Real Estate
 GGG,Graco Inc,NYSE,Stock,1986-07-09,,Active,Industrials
 GGR,Gogoro Inc - Class A,NASDAQ,Stock,2021-03-01,,Active,Consumer Cyclical
 GH,Guardant Health Inc,NASDAQ,Stock,2018-10-04,,Active,Healthcare
@@ -2139,7 +2136,7 @@ GSIW,Garden Stage Ltd,NASDAQ,Stock,2023-12-01,,Active,Financial Services
 GSK,GSK Plc,NYSE,Stock,1986-07-09,,Active,Healthcare
 GSL,Global Ship Lease Inc - Class A,NYSE,Stock,2008-08-15,,Active,Industrials
 GSM,Ferroglobe Plc,NASDAQ,Stock,2009-07-30,,Active,Basic Materials
-GSUN,Golden Sun Education Group Ltd - Class A,NASDAQ,Stock,2022-06-22,,Active,Consumer Defensive
+GSUN,Golden Sun Health Technology Group Ltd - Class A,NASDAQ,Stock,2022-06-22,,Active,Consumer Defensive
 GT,Goodyear Tire & Rubber Company,NASDAQ,Stock,1970-01-02,,Active,Consumer Cyclical
 GTAC,Global Technology Acquisition Corp I - Class A,NASDAQ,Stock,2021-12-27,,Active,Financial Services
 GTBP,GT Biopharma Inc,NASDAQ,Stock,2017-09-22,,Active,Healthcare
@@ -2235,7 +2232,7 @@ HITI,High Tide Inc,NASDAQ,Stock,2019-01-28,,Active,Healthcare
 HIVE,HIVE Digital Technologies Ltd,NASDAQ,Stock,2018-01-12,,Active,Financial Services
 HIW,Highwoods Properties Inc,NYSE,Stock,1994-06-08,,Active,Real Estate
 HKD,AMTD Digital Inc,NYSE,Stock,2022-07-15,,Active,Technology
-HKIT,Hitek Global Inc - Class A,NASDAQ,Stock,2024-02-29,,Active,Technology
+HKIT,Hitek Global Inc,NASDAQ,Stock,2023-03-31,,Active,Technology
 HL,Hecla Mining Company,NYSE,Stock,1985-02-14,,Active,Basic Materials
 HLF,Herbalife Ltd,NYSE,Stock,2004-12-16,,Active,Consumer Defensive
 HLI,Houlihan Lokey Inc - Class A,NYSE,Stock,2015-08-13,,Active,Financial Services
@@ -2364,6 +2361,7 @@ IBN,ICICI Bank Ltd,NYSE,Stock,2000-03-28,,Active,Financial Services
 IBOC,International Bancshares Corp,NASDAQ,Stock,1996-05-30,,Active,Financial Services
 IBP,Installed Building Products Inc,NYSE,Stock,2014-02-13,,Active,Consumer Cyclical
 IBRX,ImmunityBio Inc,NASDAQ,Stock,2015-07-28,,Active,Healthcare
+IBTA,Ibotta Inc - Class A,NYSE,Stock,2024-04-18,,Active,Technology
 IBTX,Independent Bank Group Inc,NASDAQ,Stock,2013-04-04,,Active,Financial Services
 ICAD,Icad Inc,NASDAQ,Stock,1992-03-17,,Active,Healthcare
 ICCC,Immucell Corp,NASDAQ,Stock,1995-07-10,,Active,Healthcare
@@ -2593,7 +2591,6 @@ JMSB,John Marshall Bancorp Inc,NASDAQ,Stock,2013-11-21,,Active,Financial Service
 JNJ,Johnson & Johnson,NYSE,Stock,1970-01-02,,Active,Healthcare
 JNPR,Juniper Networks Inc,NYSE,Stock,1999-06-25,,Active,Technology
 JNVR,Janover Inc,NASDAQ,Stock,2023-07-25,,Active,Technology
-JOANQ,JOANN Inc,NASDAQ,Stock,2021-03-12,,Active,Consumer Cyclical
 JOBY,Joby Aviation Inc,NYSE,Stock,2020-11-09,,Active,Industrials
 JOE,St. Joe Company,NYSE,Stock,1992-03-10,,Active,Real Estate
 JOUT,Johnson Outdoors Inc - Class A,NASDAQ,Stock,1990-03-26,,Active,Consumer Cyclical
@@ -2602,6 +2599,7 @@ JRSH,Jerash holdings (US) Inc,NASDAQ,Stock,2018-05-04,,Active,Consumer Cyclical
 JRVR,James River Group Holdings Ltd,NASDAQ,Stock,2014-12-12,,Active,Financial Services
 JSPR,Jasper Therapeutics Inc,NASDAQ,Stock,2021-09-24,,Active,Healthcare
 JTAI,Jet.AI Inc,NASDAQ,Stock,2023-08-10,,Active,Technology
+JUNE,Junee Ltd,NASDAQ,Stock,2024-04-17,,Active,Industrials
 JVA,Coffee Holding Co Inc,NASDAQ,Stock,2005-05-03,,Active,Consumer Defensive
 JVSA,JVSPAC Acquisition Corp - Class A,NASDAQ,Stock,2024-03-11,,Active,Financial Services
 JWEL,Jowell Global Ltd,NASDAQ,Stock,2021-03-17,,Active,Consumer Cyclical
@@ -2619,7 +2617,6 @@ KAI,Kadant Inc,NYSE,Stock,1992-11-03,,Active,Industrials
 KALA,Kala Pharmaceuticals Inc,NASDAQ,Stock,2017-07-20,,Active,Healthcare
 KALU,Kaiser Aluminum Corp,NASDAQ,Stock,2006-07-07,,Active,Basic Materials
 KALV,KalVista Pharmaceuticals Inc,NASDAQ,Stock,2015-04-09,,Active,Healthcare
-KAMN,Kaman Corp,NYSE,Stock,1990-03-26,,Active,Industrials
 KAR,Openlane Inc,NYSE,Stock,2009-12-11,,Active,Consumer Cyclical
 KARO,Karooooo Ltd,NASDAQ,Stock,2021-04-01,,Active,Technology
 KAVL,Kaival Brands Innovations Group Inc,NASDAQ,Stock,2007-02-15,,Active,Consumer Defensive
@@ -2991,9 +2988,7 @@ MD,Pediatrix Medical Group Inc,NYSE,Stock,1995-09-20,,Active,Healthcare
 MDAI,Spectral AI Inc - Class A,NASDAQ,Stock,2021-04-06,,Active,Healthcare
 MDB,MongoDB Inc - Class A,NASDAQ,Stock,2017-10-19,,Active,Technology
 MDBH,MDB Capital Holdings LLC - Class A,NASDAQ,Stock,2023-09-21,,Active,Financial Services
-MDC,M.D.C. Holdings Inc,NYSE,Stock,1980-03-11,,Active,Consumer Cyclical
 MDGL,Madrigal Pharmaceuticals Inc,NASDAQ,Stock,2007-02-06,,Active,Healthcare
-MDGS,Medigus Ltd,NASDAQ,Stock,2015-08-05,,Active,Healthcare
 MDIA,MediaCo Holding Inc - Class A,NASDAQ,Stock,2020-01-06,,Active,Communication Services
 MDJH,MDJM Ltd,NASDAQ,Stock,2019-01-08,,Active,Real Estate
 MDLZ,Mondelez International Inc - Class A,NASDAQ,Stock,2001-06-13,,Active,Consumer Defensive
@@ -3029,7 +3024,6 @@ MFIC,MidCap Financial Investment Corporation,NASDAQ,Stock,2004-05-05,,Active,Fin
 MFIN,Medallion Financial Corp,NASDAQ,Stock,1996-05-23,,Active,Financial Services
 MG,Mistras Group Inc,NYSE,Stock,2009-10-08,,Active,Industrials
 MGA,Magna International Inc,NYSE,Stock,1990-03-26,,Active,Consumer Cyclical
-MGAM,Mobile Global Esports Inc,NASDAQ,Stock,2022-07-29,,Active,Communication Services
 MGEE,MGE Energy Inc,NASDAQ,Stock,1990-03-26,,Active,Utilities
 MGIC,Magic Software Enterprises Ltd,NASDAQ,Stock,1991-08-30,,Active,Technology
 MGIH,Millennium Group International Holdings Ltd,NASDAQ,Stock,2023-04-04,,Active,Consumer Cyclical
@@ -3183,6 +3177,7 @@ MTD,Mettler-Toledo International Inc,NYSE,Stock,1997-11-14,,Active,Healthcare
 MTDR,Matador Resources Company,NYSE,Stock,2012-02-02,,Active,Energy
 MTEK,Maris Tech Ltd,NASDAQ,Stock,2022-02-02,,Active,Technology
 MTEM,Molecular Templates Inc,NASDAQ,Stock,2005-02-04,,Active,Healthcare
+MTEN,Mingteng International Corporation Inc,NASDAQ,Stock,2024-04-18,,Active,Industrials
 MTEX,Mannatech Inc,NASDAQ,Stock,1999-02-16,,Active,Consumer Defensive
 MTG,MGIC Investment Corp,NYSE,Stock,1991-08-07,,Active,Financial Services
 MTH,Meritage Homes Corp,NYSE,Stock,1988-12-16,,Active,Consumer Cyclical
@@ -3370,7 +3365,6 @@ NSIT,Insight Enterprises Inc,NASDAQ,Stock,1995-01-25,,Active,Technology
 NSP,Insperity Inc,NYSE,Stock,1997-01-29,,Active,Industrials
 NSPR,InspireMD Inc,NASDAQ,Stock,2011-04-12,,Active,Healthcare
 NSSC,NAPCO Security Technologies Inc,NASDAQ,Stock,1990-03-26,,Active,Industrials
-NSTGQ,Nanostring Technologies Inc,NASDAQ,Stock,2013-06-26,,Active,Healthcare
 NSTS,NSTS Bancorp Inc,NASDAQ,Stock,2022-01-19,,Active,Financial Services
 NSYS,Nortech Systems Inc,NASDAQ,Stock,1993-06-24,,Active,Healthcare
 NTAP,Netapp Inc,NASDAQ,Stock,1995-11-21,,Active,Technology
@@ -3571,7 +3565,6 @@ ORLY,O`Reilly Automotive Inc,NASDAQ,Stock,1993-04-23,,Active,Consumer Cyclical
 ORMP,Oramed Pharmaceuticals Inc,NASDAQ,Stock,2006-04-21,,Active,Healthcare
 ORN,Orion Group Holdings Inc,NYSE,Stock,2007-12-20,,Active,Industrials
 ORRF,Orrstown Financial Services Inc,NASDAQ,Stock,1999-05-13,,Active,Financial Services
-OSA,ProSomnus Inc,NASDAQ,Stock,2021-07-28,,Active,Healthcare
 OSBC,Old Second Bancorporation Inc,NASDAQ,Stock,1995-08-18,,Active,Financial Services
 OSCR,Oscar Health Inc - Class A,NYSE,Stock,2021-03-03,,Active,Healthcare
 OSG,Overseas Shipholding Group Inc - Class A,NYSE,Stock,2015-12-01,,Active,Energy
@@ -4136,11 +4129,10 @@ RYTM,Rhythm Pharmaceuticals Inc,NASDAQ,Stock,2017-10-05,,Active,Healthcare
 RZLT,Rezolute Inc,NASDAQ,Stock,2014-05-01,,Active,Healthcare
 S,SentinelOne Inc - Class A,NYSE,Stock,2021-06-30,,Active,Technology
 SA,Seabridge Gold Inc,NYSE,Stock,2004-04-20,,Active,Basic Materials
-SABR,Sabre Corp,NASDAQ,Stock,2014-04-17,,Active,Consumer Cyclical
+SABR,Sabre Corp,NASDAQ,Stock,2014-04-17,,Active,Technology
 SABS,SAB Biotherapeutics Inc,NASDAQ,Stock,2021-02-09,,Active,Healthcare
 SAFE,Safehold Inc,NYSE,Stock,2017-06-22,,Active,Real Estate
 SAFT,Safety Insurance Group Inc,NASDAQ,Stock,2002-11-22,,Active,Financial Services
-SAGA,Sagaliam Acquisition Corp - Class A,NASDAQ,Stock,2022-02-10,,Active,Financial Services
 SAGE,Sage Therapeutics Inc,NASDAQ,Stock,2014-07-18,,Active,Healthcare
 SAH,Sonic Automotive Inc - Class A,NYSE,Stock,1997-11-12,,Active,Consumer Cyclical
 SAI,SAI.TECH Global Corporation - Class A,NASDAQ,Stock,2021-06-28,,Active,Financial Services
@@ -4194,7 +4186,6 @@ SCPH,scPharmaceuticals Inc,NASDAQ,Stock,2017-11-17,,Active,Healthcare
 SCRM,Screaming Eagle Acquisition Corp - Class A,NASDAQ,Stock,2022-03-01,,Active,Financial Services
 SCS,Steelcase Inc - Class A,NYSE,Stock,1998-02-18,,Active,Industrials
 SCSC,Scansource Inc,NASDAQ,Stock,1994-03-18,,Active,Technology
-SCTL,Societal CDMO Inc,NASDAQ,Stock,2014-03-07,,Active,Healthcare
 SCVL,Shoe Carnival Inc,NASDAQ,Stock,1993-03-16,,Active,Consumer Cyclical
 SCWO,374Water Inc,NASDAQ,Stock,1996-09-26,,Active,Industrials
 SCWX,SecureWorks Corp - Class A,NASDAQ,Stock,2016-04-22,,Active,Technology
@@ -4286,7 +4277,6 @@ SIGIP,Selective Insurance Group Inc Depositary Shares each representing a 11000t
 SII,Sprott Inc,NYSE,Stock,2020-06-29,,Active,Financial Services
 SILC,Silicom Ltd,NASDAQ,Stock,1994-02-18,,Active,Technology
 SILK,Silk Road Medical Inc,NASDAQ,Stock,2019-04-04,,Active,Healthcare
-SILO,SILO Pharma Inc,NASDAQ,Stock,2014-05-13,,Active,Healthcare
 SIMO,Silicon Motion Technology Corp,NASDAQ,Stock,2005-06-30,,Active,Technology
 SINT,SINTX Technologies Inc,NASDAQ,Stock,2014-02-13,,Active,Healthcare
 SIRI,Sirius XM Holdings Inc,NASDAQ,Stock,1994-09-13,,Active,Communication Services
@@ -4665,7 +4655,6 @@ TGNA,TEGNA Inc,NYSE,Stock,1985-07-01,,Active,Communication Services
 TGS,Transportadora de Gas del Sur,NYSE,Stock,1994-11-17,,Active,Energy
 TGT,Target Corp,NYSE,Stock,1983-04-06,,Active,Consumer Defensive
 TGTX,TG Therapeutics Inc,NASDAQ,Stock,2010-05-03,,Active,Healthcare
-TGVC,TG Venture Acquisition Corp - Class A,NASDAQ,Stock,2021-11-22,,Active,Financial Services
 TH,Target Hospitality Corp - Class A,NASDAQ,Stock,2013-07-25,,Active,Industrials
 THAR,Tharimmune Inc,NASDAQ,Stock,2022-01-12,,Active,Healthcare
 THC,Tenet Healthcare Corp,NYSE,Stock,1982-01-04,,Active,Healthcare
@@ -4775,6 +4764,7 @@ TROW,T. Rowe Price Group Inc,NASDAQ,Stock,1989-09-13,,Active,Financial Services
 TROX,Tronox Holdings plc - Class A,NYSE,Stock,2010-12-01,,Active,Basic Materials
 TRP,TC Energy Corporation,NYSE,Stock,1987-12-30,,Active,Energy
 TRS,Trimas Corporation,NASDAQ,Stock,2007-05-18,,Active,Consumer Cyclical
+TRSG,Tungray Technologies Inc - Class A,NASDAQ,Stock,2024-04-19,,Active,Industrials
 TRST,Trustco Bank Corp,NASDAQ,Stock,1990-03-26,,Active,Financial Services
 TRTL,TortoiseEcofin Acquisition Corp III - Class A,NYSE,Stock,2014-10-03,,Active,Financial Services
 TRTX,TPG RE Finance Trust Inc,NYSE,Stock,2017-07-20,,Active,Real Estate
@@ -4903,7 +4893,7 @@ UPBD,Upbound Group Inc,NASDAQ,Stock,1995-01-25,,Active,Technology
 UPC,Universe Pharmaceuticals Inc,NASDAQ,Stock,2021-03-23,,Active,Healthcare
 UPLD,Upland Software Inc,NASDAQ,Stock,2014-11-06,,Active,Technology
 UPST,Upstart Holdings Inc,NASDAQ,Stock,2020-12-16,,Active,Financial Services
-UPWK,Upwork Inc,NASDAQ,Stock,2018-10-03,,Active,Industrials
+UPWK,Upwork Inc,NASDAQ,Stock,2018-10-03,,Active,Communication Services
 UPXI,Upexi Inc,NASDAQ,Stock,2021-06-24,,Active,Communication Services
 URBN,Urban Outfitters Inc,NASDAQ,Stock,1993-11-09,,Active,Consumer Cyclical
 URGN,UroGen Pharma Ltd,NASDAQ,Stock,2017-05-04,,Active,Healthcare
@@ -4985,7 +4975,6 @@ VIASP,Via Renewables Inc,NASDAQ,Stock,2017-03-10,,Active,Utilities
 VIAV,Viavi Solutions Inc,NASDAQ,Stock,2015-08-04,,Active,Technology
 VICI,VICI Properties Inc,NYSE,Stock,2017-10-17,,Active,Real Estate
 VICR,Vicor Corp,NASDAQ,Stock,1991-11-27,,Active,Technology
-VIEW,View Inc - Class A,NASDAQ,Stock,2020-10-19,,Active,Industrials
 VIGL,Vigil Neuroscience Inc,NASDAQ,Stock,2022-01-07,,Active,Healthcare
 VINC,Vincerx Pharma Inc,NASDAQ,Stock,2020-05-27,,Active,Healthcare
 VINO,Gaucho Group Holdings Inc,NASDAQ,Stock,2016-09-23,,Active,Real Estate
@@ -5258,11 +5247,11 @@ XWEL,XWELL Inc,NASDAQ,Stock,2018-01-05,,Active,Healthcare
 XXII,22nd Century Group Inc,NASDAQ,Stock,2011-01-26,,Active,Consumer Defensive
 XYF,X Financial,NYSE,Stock,2018-09-19,,Active,Financial Services
 XYL,Xylem Inc,NYSE,Stock,2011-10-13,,Active,Industrials
+XYLO,Medigus Ltd,NASDAQ,Stock,2015-08-05,,Active,Healthcare
 YALA,Yalla Group Ltd,NYSE,Stock,2020-09-30,,Active,Technology
 YELP,Yelp Inc,NYSE,Stock,2012-03-02,,Active,Communication Services
 YETI,YETI Holdings Inc,NYSE,Stock,2018-10-25,,Active,Consumer Cyclical
 YEXT,Yext Inc,NYSE,Stock,2017-04-13,,Active,Technology
-YGF,YanGuFang International Group Co Ltd,NASDAQ,Stock,2023-03-28,,Active,Consumer Defensive
 YGMZ,MingZhu Logistics Holdings Ltd,NASDAQ,Stock,2020-10-21,,Active,Industrials
 YHGJ,Yunhong Green CTI Ltd,NASDAQ,Stock,2003-05-29,,Active,Consumer Cyclical
 YI,111 Inc,NASDAQ,Stock,2018-09-12,,Active,Healthcare
